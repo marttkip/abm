@@ -104,7 +104,7 @@ class Contacts_model extends CI_Model
 		// var_dump($total_columns); die();
 		
 		//if products exist in array
-		if(($total_rows > 0) && ($total_columns == 22))
+		if(($total_rows > 0) && ($total_columns == 3))
 		{
 			$count = 0;
 			$comment = '';
@@ -116,7 +116,6 @@ class Contacts_model extends CI_Model
 				$service_charge_insert['name'] = ucwords(strtolower($array[$r][0]));
 				$service_charge_insert['Phonenumber'] = $array[$r][1];
 				$service_charge_insert['balance'] =$array[$r][2];
-				$service_charge_insert['Gender'] = $array[$r][3];
 	
 				$count++;
 				
@@ -167,7 +166,57 @@ class Contacts_model extends CI_Model
 			return FALSE;
 		}
 	}
-
+	
+	public function get_contact($entryid)
+	{
+		$this->db->where('entryid', $entryid);
+		return $this->db->get('allcounties');
+	}
+	
+	/*
+	*	Edit personnel
+	*
+	*/
+	public function edit_contact($entryid)
+	{
+		$data = array(
+			'name'=>ucwords(strtolower($this->input->post('name'))),
+			'balance'=>$this->input->post('balance'),
+			'Phonenumber'=>$this->input->post('Phonenumber'),
+			'Countyname'=>'NAIROBI'
+		);
+		
+		$this->db->where('entryid', $entryid);
+		if($this->db->update('allcounties', $data))
+		{
+			return TRUE;
+		}
+		else{
+			return FALSE;
+		}
+	}
+	
+	/*
+	*	Add personnel
+	*
+	*/
+	public function add_contact()
+	{
+		$data = array(
+			'name'=>ucwords(strtolower($this->input->post('name'))),
+			'balance'=>$this->input->post('balance'),
+			'Phonenumber'=>$this->input->post('Phonenumber'),
+			'Countyname'=>'NAIROBI'
+		);
+		
+		if($this->db->insert('allcounties', $data))
+		{
+			return $this->db->insert_id();
+		}
+		else{
+			return FALSE;
+		}
+	}
 }
 
 ?>

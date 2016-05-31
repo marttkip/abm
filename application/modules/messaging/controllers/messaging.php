@@ -473,7 +473,6 @@ class Messaging extends MX_Controller
 		$v_data['query'] = $query;
 		$v_data['page'] = $page;
 
-
 		$counties = $this->messaging_model->get_active_contacts('Countyname');
 		$rs8 = $counties->result();
 		$county_list = '';
@@ -484,9 +483,6 @@ class Messaging extends MX_Controller
 
 		endforeach;
 		$v_data['county_list'] = $county_list;
-
-		
-		
 
 		$query = $this->messaging_model->get_message_template($message_template_id);
 		$v_data['message_template'] = $query->result();
@@ -500,7 +496,6 @@ class Messaging extends MX_Controller
 	public function set_search_parameters($message_template_id)
 	{
 		$_SESSION['search_template'] = NULL;
-
 		
 		$this->session->unset_userdata('search_title');
 		$this->session->unset_userdata('search_template');

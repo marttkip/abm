@@ -36,7 +36,7 @@ class Contacts extends MX_Controller
 		$table = 'allcounties';
 		//pagination
 		$this->load->library('pagination');
-		$config['base_url'] = site_url().'/contacts';
+		$config['base_url'] = site_url().'contacts';
 		$config['total_rows'] = $this->contacts_model->count_items($table, $where);
 		$config['uri_segment'] = $segment;
 		$config['per_page'] = 20;
@@ -176,6 +176,70 @@ class Contacts extends MX_Controller
 		redirect('contacts');
 	}
 	
+	/*
+	*	Edit personnel
+	*
+	*/
+	public function edit_contact($contact_id)
+	{
+		$this->form_validation->set_rules('name', 'Name', 'required|xss_clean');
+		$this->form_validation->set_rules('balance', 'Balance', 'required|xss_clean');
+		$this->form_validation->set_rules('Phonenumber', 'Phone Number', 'required|xss_clean');
+		
+		//if form conatins invalid data
+		if ($this->form_validation->run())
+		{
+			if($this->contacts_model->edit_contact($contact_id))
+			{
+				$this->session->set_userdata("success_message", "Contact edited successfully");
+				redirect('contacts');
+			}
+			
+			else
+			{
+				$this->session->set_userdata("error_message","Could not edit oontact. Please try again");
+			}
+		}
+		
+		$v_data['contact_details'] = $this->contacts_model->get_contact($contact_id);
+		$data['content'] = $this->load->view('contacts/edit_contact', $v_data, true);
+		
+		$data['title'] = 'Edit Contact';
+		
+		$this->load->view('admin/templates/general_page', $data);
+	}
 	
+	/*
+	*	Add personnel
+	*
+	*/
+	public function add_contact()
+	{
+		//form validation rules
+		$this->form_validation->set_rules('name', 'Name', 'required|xss_clean');
+		$this->form_validation->set_rules('balance', 'Balance', 'required|xss_clean');
+		$this->form_validation->set_rules('Phonenumber', 'Phone Number', 'required|xss_clean');
+		
+		//if form conatins invalid data
+		if ($this->form_validation->run())
+		{
+			if($this->contacts_model->add_contact())
+			{
+				$this->session->set_userdata("success_message", "Contact added successfully");
+				redirect('contacts');
+			}
+			
+			else
+			{
+				$this->session->set_userdata("error_message","Could not add oontact. Please try again");
+			}
+		}
+		
+		$data['content'] = $this->load->view('contacts/add_contact', '', true);
+		
+		$data['title'] = 'Add Contact';
+		
+		$this->load->view('admin/templates/general_page', $data);
+	}
 }
 ?>

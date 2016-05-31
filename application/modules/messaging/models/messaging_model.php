@@ -580,10 +580,10 @@ class Messaging_model extends CI_Model
 	{
 		 $search_template = $this->session->userdata('search_template');
 		 $message_template_description = $_POST['message_template_description'];
-		if(!empty($search_template))
+		if(1>0)
 		{
 
-			$where = 'entryid > 0 '.$search_template;
+			$where = 'entryid > 0 ';
 			$this->db->where($where);
 			$query = $this->db->get('allcounties');
 			if($query->num_rows() > 0)

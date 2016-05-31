@@ -2715,3 +2715,1587 @@ DEBUG - 2016-05-16 10:29:48 --> File loaded: application/modules/admin/views/inc
 DEBUG - 2016-05-16 10:29:48 --> File loaded: application/modules/admin/views/templates/general_page.php
 DEBUG - 2016-05-16 10:29:48 --> Final output sent to browser
 DEBUG - 2016-05-16 10:29:48 --> Total execution time: 0.2099
+DEBUG - 2016-05-16 09:57:00 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:00 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> No URI present. Default controller set.
+DEBUG - 2016-05-16 09:57:00 --> Output Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Security Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Input Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:57:00 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Loader Class Initialized
+DEBUG - 2016-05-16 09:57:00 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 09:57:00 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 09:57:00 --> Database Driver Class Initialized
+ERROR - 2016-05-16 09:57:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 09:57:01 --> Session Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 09:57:01 --> Session routines successfully run
+DEBUG - 2016-05-16 09:57:01 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> Pagination Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> Email Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> Controller Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> Auth MX_Controller Initialized
+DEBUG - 2016-05-16 09:57:01 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 09:57:01 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:01 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 09:57:01 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:02 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Output Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Security Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Input Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:57:02 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Loader Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 09:57:02 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 09:57:02 --> Database Driver Class Initialized
+ERROR - 2016-05-16 09:57:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 09:57:02 --> Session Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 09:57:02 --> Session routines successfully run
+DEBUG - 2016-05-16 09:57:02 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Pagination Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Email Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Controller Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> Auth MX_Controller Initialized
+DEBUG - 2016-05-16 09:57:02 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 09:57:02 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 09:57:02 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:02 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 09:57:02 --> File loaded: application/modules/auth/views/templates/login.php
+DEBUG - 2016-05-16 09:57:02 --> Final output sent to browser
+DEBUG - 2016-05-16 09:57:02 --> Total execution time: 0.3440
+DEBUG - 2016-05-16 09:57:05 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:05 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:05 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:05 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:06 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:06 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:06 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:06 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:06 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:06 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:06 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:06 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:06 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:06 --> 404 Page Not Found --> 
+ERROR - 2016-05-16 09:57:06 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:17 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:17 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Output Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Security Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Input Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:57:17 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Loader Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 09:57:17 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 09:57:17 --> Database Driver Class Initialized
+ERROR - 2016-05-16 09:57:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 09:57:17 --> Session Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 09:57:17 --> Session routines successfully run
+DEBUG - 2016-05-16 09:57:17 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Pagination Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Email Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Controller Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Auth MX_Controller Initialized
+DEBUG - 2016-05-16 09:57:17 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 09:57:17 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 09:57:17 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:17 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2016-05-16 09:57:17 --> XSS Filtering completed
+DEBUG - 2016-05-16 09:57:17 --> Unable to find validation rule: exists
+DEBUG - 2016-05-16 09:57:17 --> XSS Filtering completed
+DEBUG - 2016-05-16 09:57:17 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 09:57:17 --> File loaded: application/modules/auth/views/templates/login.php
+DEBUG - 2016-05-16 09:57:17 --> Final output sent to browser
+DEBUG - 2016-05-16 09:57:17 --> Total execution time: 0.1980
+DEBUG - 2016-05-16 09:57:18 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:18 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:18 --> URI Class Initialized
+ERROR - 2016-05-16 09:57:18 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:18 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:18 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:18 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:18 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> UTF-8 Support Enabled
+ERROR - 2016-05-16 09:57:18 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:18 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:18 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:18 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:26 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:26 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Output Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Security Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Input Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:57:26 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Loader Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 09:57:26 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 09:57:26 --> Database Driver Class Initialized
+ERROR - 2016-05-16 09:57:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 09:57:26 --> Session Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 09:57:26 --> Session routines successfully run
+DEBUG - 2016-05-16 09:57:26 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Pagination Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Email Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Controller Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Auth MX_Controller Initialized
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2016-05-16 09:57:26 --> XSS Filtering completed
+DEBUG - 2016-05-16 09:57:26 --> Unable to find validation rule: exists
+DEBUG - 2016-05-16 09:57:26 --> XSS Filtering completed
+DEBUG - 2016-05-16 09:57:26 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:26 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Output Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Security Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Input Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:57:26 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Loader Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 09:57:26 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 09:57:26 --> Database Driver Class Initialized
+ERROR - 2016-05-16 09:57:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 09:57:26 --> Session Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 09:57:26 --> Session routines successfully run
+DEBUG - 2016-05-16 09:57:26 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Pagination Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Email Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Controller Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> Admin MX_Controller Initialized
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/administration/models/reports_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/hr/models/personnel_model.php
+DEBUG - 2016-05-16 09:57:26 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/admin/views/profile_page.php
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 09:57:26 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 09:57:26 --> Final output sent to browser
+DEBUG - 2016-05-16 09:57:26 --> Total execution time: 0.0890
+DEBUG - 2016-05-16 09:57:27 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:27 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:27 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:27 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:27 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:27 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:27 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:28 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:28 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:28 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:28 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:28 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:28 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:28 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:43 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:43 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> Output Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> Security Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> Input Class Initialized
+DEBUG - 2016-05-16 09:57:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:57:43 --> Language Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Language Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Config Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Loader Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 10:57:43 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 10:57:43 --> Database Driver Class Initialized
+ERROR - 2016-05-16 10:57:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 10:57:43 --> Session Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 10:57:43 --> Session routines successfully run
+DEBUG - 2016-05-16 10:57:43 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Pagination Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Email Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Controller Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 10:57:43 --> Model Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 10:57:43 --> Model Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 10:57:43 --> Model Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 10:57:43 --> Model Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 10:57:43 --> Model Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 10:57:43 --> Model Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 10:57:43 --> Model Class Initialized
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/messaging/views/dashboard.php
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 10:57:43 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 10:57:43 --> Final output sent to browser
+DEBUG - 2016-05-16 10:57:43 --> Total execution time: 0.3620
+DEBUG - 2016-05-16 09:57:46 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:46 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:46 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:46 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:46 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:46 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:46 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:57:48 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:48 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Output Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Security Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Input Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:57:48 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Language Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Loader Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 09:57:48 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 09:57:48 --> Database Driver Class Initialized
+ERROR - 2016-05-16 09:57:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 09:57:48 --> Session Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 09:57:48 --> Session routines successfully run
+DEBUG - 2016-05-16 09:57:48 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Pagination Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Email Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Controller Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> Contacts MX_Controller Initialized
+DEBUG - 2016-05-16 09:57:48 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/administration/models/contacts_model.php
+DEBUG - 2016-05-16 09:57:48 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 09:57:48 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 09:57:48 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 09:57:48 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 09:57:48 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 09:57:48 --> Model Class Initialized
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/administration/views/contacts/contact_list.php
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 09:57:48 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 09:57:48 --> Final output sent to browser
+DEBUG - 2016-05-16 09:57:48 --> Total execution time: 0.1120
+DEBUG - 2016-05-16 09:57:51 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> Config Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:51 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:57:51 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> URI Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> Router Class Initialized
+DEBUG - 2016-05-16 09:57:51 --> Router Class Initialized
+ERROR - 2016-05-16 09:57:51 --> 404 Page Not Found --> 
+ERROR - 2016-05-16 09:57:51 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 09:58:03 --> Config Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Hooks Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 09:58:03 --> URI Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Router Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Output Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Security Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Input Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 09:58:03 --> Language Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Language Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Config Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Loader Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 09:58:03 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 09:58:03 --> Database Driver Class Initialized
+ERROR - 2016-05-16 09:58:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 09:58:03 --> Session Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 09:58:03 --> Session routines successfully run
+DEBUG - 2016-05-16 09:58:03 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Pagination Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Email Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Controller Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Contacts MX_Controller Initialized
+DEBUG - 2016-05-16 09:58:03 --> Model Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> File loaded: application/modules/administration/models/contacts_model.php
+DEBUG - 2016-05-16 09:58:03 --> Model Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 09:58:03 --> Model Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 09:58:03 --> Model Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 09:58:03 --> Model Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 09:58:03 --> Model Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 09:58:03 --> Model Class Initialized
+DEBUG - 2016-05-16 09:58:03 --> Final output sent to browser
+DEBUG - 2016-05-16 09:58:03 --> Total execution time: 0.1340
+DEBUG - 2016-05-16 10:00:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:00:31 --> URI Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Router Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Output Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Security Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Input Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:00:31 --> Language Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Language Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Loader Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 10:00:31 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 10:00:31 --> Database Driver Class Initialized
+ERROR - 2016-05-16 10:00:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 10:00:31 --> Session Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 10:00:31 --> Session routines successfully run
+DEBUG - 2016-05-16 10:00:31 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Pagination Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Email Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Controller Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Contacts MX_Controller Initialized
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/administration/models/contacts_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/models/file_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Upload Class Initialized
+ERROR - 2016-05-16 10:00:31 --> Severity: Warning  --> fopen(C:/baeabb8ff01160eec0b5db7da2805f57): failed to open stream: Permission denied C:\xampp\htdocs\abm\system\core\Common.php 84
+DEBUG - 2016-05-16 10:00:31 --> Language file loaded: language/english/upload_lang.php
+ERROR - 2016-05-16 10:00:31 --> The upload destination folder does not appear to be writable.
+DEBUG - 2016-05-16 10:00:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:00:31 --> URI Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Router Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Output Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Security Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Input Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:00:31 --> Language Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Language Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Loader Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 10:00:31 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 10:00:31 --> Database Driver Class Initialized
+ERROR - 2016-05-16 10:00:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 10:00:31 --> Session Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 10:00:31 --> Session routines successfully run
+DEBUG - 2016-05-16 10:00:31 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Pagination Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Email Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Controller Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> Contacts MX_Controller Initialized
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/administration/models/contacts_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 10:00:31 --> Model Class Initialized
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/administration/views/contacts/contact_list.php
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 10:00:31 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 10:00:31 --> Final output sent to browser
+DEBUG - 2016-05-16 10:00:31 --> Total execution time: 0.2165
+DEBUG - 2016-05-16 10:00:34 --> Config Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:00:34 --> URI Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> Router Class Initialized
+ERROR - 2016-05-16 10:00:34 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:00:34 --> Config Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:00:34 --> URI Class Initialized
+DEBUG - 2016-05-16 10:00:34 --> Router Class Initialized
+ERROR - 2016-05-16 10:00:34 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:02:59 --> Config Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:02:59 --> URI Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Router Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Output Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Security Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Input Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:02:59 --> Language Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Language Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Config Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Loader Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 10:02:59 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 10:02:59 --> Database Driver Class Initialized
+ERROR - 2016-05-16 10:02:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 10:02:59 --> Session Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 10:02:59 --> Session routines successfully run
+DEBUG - 2016-05-16 10:02:59 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Pagination Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Email Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Controller Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Contacts MX_Controller Initialized
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> File loaded: application/modules/administration/models/contacts_model.php
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> File loaded: application/modules/admin/models/file_model.php
+DEBUG - 2016-05-16 10:02:59 --> Model Class Initialized
+DEBUG - 2016-05-16 10:02:59 --> Upload Class Initialized
+ERROR - 2016-05-16 10:02:59 --> Severity: Notice  --> Undefined offset: 3 C:\xampp\htdocs\abm\application\modules\administration\models\contacts_model.php 119
+DEBUG - 2016-05-16 10:03:00 --> DB Transaction Failure
+ERROR - 2016-05-16 10:03:00 --> Query error: Unknown column 'Gender' in 'field list'
+DEBUG - 2016-05-16 10:03:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2016-05-16 10:03:36 --> Config Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:03:36 --> URI Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> Router Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> Output Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> Security Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> Input Class Initialized
+DEBUG - 2016-05-16 10:03:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:03:36 --> Language Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Language Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Config Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Loader Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 10:03:37 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 10:03:37 --> Database Driver Class Initialized
+ERROR - 2016-05-16 10:03:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 10:03:37 --> Session Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 10:03:37 --> Session routines successfully run
+DEBUG - 2016-05-16 10:03:37 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Pagination Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Email Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Controller Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Contacts MX_Controller Initialized
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/administration/models/contacts_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/models/file_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Upload Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Config Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:03:37 --> URI Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Router Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Output Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Security Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Input Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:03:37 --> Language Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Language Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Config Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Loader Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 10:03:37 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 10:03:37 --> Database Driver Class Initialized
+ERROR - 2016-05-16 10:03:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 10:03:37 --> Session Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 10:03:37 --> Session routines successfully run
+DEBUG - 2016-05-16 10:03:37 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Pagination Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Email Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Controller Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> Contacts MX_Controller Initialized
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/administration/models/contacts_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 10:03:37 --> Model Class Initialized
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/administration/views/contacts/contact_list.php
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 10:03:37 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 10:03:37 --> Final output sent to browser
+DEBUG - 2016-05-16 10:03:37 --> Total execution time: 0.1200
+DEBUG - 2016-05-16 10:03:39 --> Config Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:03:39 --> URI Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> Router Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> Config Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> UTF-8 Support Enabled
+ERROR - 2016-05-16 10:03:39 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:03:39 --> URI Class Initialized
+DEBUG - 2016-05-16 10:03:39 --> Router Class Initialized
+ERROR - 2016-05-16 10:03:39 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:04:29 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:29 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> Router Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> Output Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> Security Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> Input Class Initialized
+DEBUG - 2016-05-16 10:04:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:04:29 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Config Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:04:29 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:04:29 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:04:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:04:29 --> Session Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:04:29 --> Session routines successfully run
+DEBUG - 2016-05-16 11:04:29 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Email Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:04:29 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:04:29 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:04:29 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:04:29 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:04:29 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:04:29 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:04:29 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/messaging/views/templates/all_message_templates.php
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:04:29 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:04:29 --> Final output sent to browser
+DEBUG - 2016-05-16 11:04:29 --> Total execution time: 0.1620
+DEBUG - 2016-05-16 10:04:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:31 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> Router Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> Hooks Class Initialized
+ERROR - 2016-05-16 10:04:31 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:04:31 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:31 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:31 --> Router Class Initialized
+ERROR - 2016-05-16 10:04:31 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:04:36 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:36 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> Router Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> Output Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> Security Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> Input Class Initialized
+DEBUG - 2016-05-16 10:04:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:04:36 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Config Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:04:36 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:04:36 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:04:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:04:36 --> Session Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:04:36 --> Session routines successfully run
+DEBUG - 2016-05-16 11:04:36 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Email Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:04:36 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:04:36 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:04:36 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:04:36 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:04:36 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:04:36 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:04:36 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/messaging/views/templates/edit_message_template.php
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:04:36 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:04:36 --> Final output sent to browser
+DEBUG - 2016-05-16 11:04:36 --> Total execution time: 0.2120
+DEBUG - 2016-05-16 10:04:39 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:39 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> Router Class Initialized
+ERROR - 2016-05-16 10:04:39 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:04:39 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:39 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:39 --> Router Class Initialized
+ERROR - 2016-05-16 10:04:39 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:04:45 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:45 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> Router Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> Output Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> Security Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> Input Class Initialized
+DEBUG - 2016-05-16 10:04:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:04:45 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Config Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:04:45 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:04:45 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:04:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:04:45 --> Session Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:04:45 --> Session routines successfully run
+DEBUG - 2016-05-16 11:04:45 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Email Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:04:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:04:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:04:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:04:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:04:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:04:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:04:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/messaging/views/templates/all_message_templates.php
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:04:45 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:04:45 --> Final output sent to browser
+DEBUG - 2016-05-16 11:04:45 --> Total execution time: 0.0825
+DEBUG - 2016-05-16 10:04:47 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:47 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:47 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> Router Class Initialized
+DEBUG - 2016-05-16 10:04:47 --> Router Class Initialized
+ERROR - 2016-05-16 10:04:47 --> 404 Page Not Found --> 
+ERROR - 2016-05-16 10:04:47 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:04:49 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:49 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> Router Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> Output Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> Security Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> Input Class Initialized
+DEBUG - 2016-05-16 10:04:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:04:49 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Language Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Config Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:04:49 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:04:49 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:04:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:04:49 --> Session Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:04:49 --> Session routines successfully run
+DEBUG - 2016-05-16 11:04:49 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Email Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:04:49 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:04:49 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:04:49 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:04:49 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:04:49 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:04:49 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:04:49 --> Model Class Initialized
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/messaging/views/templates/add_message_template.php
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:04:49 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:04:49 --> Final output sent to browser
+DEBUG - 2016-05-16 11:04:49 --> Total execution time: 0.0880
+DEBUG - 2016-05-16 10:04:51 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:04:51 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> Router Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> Config Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> UTF-8 Support Enabled
+ERROR - 2016-05-16 10:04:51 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:04:51 --> URI Class Initialized
+DEBUG - 2016-05-16 10:04:51 --> Router Class Initialized
+ERROR - 2016-05-16 10:04:51 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:24 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:24 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Output Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Security Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Input Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:05:24 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Config Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:05:24 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:05:24 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:05:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:05:24 --> Session Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:05:24 --> Session routines successfully run
+DEBUG - 2016-05-16 11:05:24 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Email Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2016-05-16 11:05:24 --> XSS Filtering completed
+DEBUG - 2016-05-16 11:05:24 --> XSS Filtering completed
+DEBUG - 2016-05-16 10:05:24 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:24 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Output Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Security Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Input Class Initialized
+DEBUG - 2016-05-16 10:05:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:05:24 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Config Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:05:24 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:05:24 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:05:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:05:24 --> Session Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:05:24 --> Session routines successfully run
+DEBUG - 2016-05-16 11:05:24 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Email Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:05:24 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/messaging/views/templates/all_message_templates.php
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:05:24 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:05:24 --> Final output sent to browser
+DEBUG - 2016-05-16 11:05:24 --> Total execution time: 0.0850
+DEBUG - 2016-05-16 10:05:26 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:26 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> Utf8 Class Initialized
+ERROR - 2016-05-16 10:05:26 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:26 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:26 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:26 --> Router Class Initialized
+ERROR - 2016-05-16 10:05:26 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:31 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> Output Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> Security Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> Input Class Initialized
+DEBUG - 2016-05-16 10:05:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:05:31 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Config Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:05:31 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:05:31 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:05:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:05:31 --> Session Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:05:31 --> Session routines successfully run
+DEBUG - 2016-05-16 11:05:31 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Email Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:05:31 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:05:31 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:05:31 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:05:31 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:05:31 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:05:31 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:05:31 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/messaging/views/templates/template_detail.php
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:05:31 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:05:31 --> Final output sent to browser
+DEBUG - 2016-05-16 11:05:31 --> Total execution time: 0.2300
+DEBUG - 2016-05-16 10:05:34 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:34 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> Router Class Initialized
+ERROR - 2016-05-16 10:05:34 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:34 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:34 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:34 --> Router Class Initialized
+ERROR - 2016-05-16 10:05:34 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:45 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:45 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Output Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Security Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Input Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:05:45 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Config Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:05:45 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:05:45 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:05:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:05:45 --> Session Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:05:45 --> Session routines successfully run
+DEBUG - 2016-05-16 11:05:45 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Email Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:05:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:05:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:05:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:05:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:05:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:05:45 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:05:45 --> Model Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:45 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Output Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Security Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Input Class Initialized
+DEBUG - 2016-05-16 10:05:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:05:45 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Config Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:05:45 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:05:45 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:05:46 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:05:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:05:46 --> Session Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:05:46 --> Session routines successfully run
+DEBUG - 2016-05-16 11:05:46 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> Email Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:05:46 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:05:46 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:05:46 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:05:46 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:05:46 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:05:46 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:05:46 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/messaging/views/templates/template_detail.php
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:05:46 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:05:46 --> Final output sent to browser
+DEBUG - 2016-05-16 11:05:46 --> Total execution time: 0.1875
+DEBUG - 2016-05-16 10:05:48 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:48 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:48 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:48 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:48 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:48 --> Router Class Initialized
+ERROR - 2016-05-16 10:05:48 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:49 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:49 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:49 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:49 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:49 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:49 --> Router Class Initialized
+ERROR - 2016-05-16 10:05:49 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:53 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:53 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Output Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Security Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Input Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:05:53 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Config Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:05:53 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:05:53 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:05:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:05:53 --> Session Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:05:53 --> Session routines successfully run
+DEBUG - 2016-05-16 11:05:53 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Email Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:53 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Router Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Output Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Security Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Input Class Initialized
+DEBUG - 2016-05-16 10:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:05:53 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Language Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Config Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:05:53 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:05:53 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:05:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:05:53 --> Session Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:05:53 --> Session routines successfully run
+DEBUG - 2016-05-16 11:05:53 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Email Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:05:53 --> Model Class Initialized
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/messaging/views/templates/template_detail.php
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:05:53 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:05:53 --> Final output sent to browser
+DEBUG - 2016-05-16 11:05:53 --> Total execution time: 0.1700
+DEBUG - 2016-05-16 10:05:56 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:56 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> Router Class Initialized
+ERROR - 2016-05-16 10:05:56 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:05:56 --> Config Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:05:56 --> URI Class Initialized
+DEBUG - 2016-05-16 10:05:56 --> Router Class Initialized
+ERROR - 2016-05-16 10:05:56 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:06:05 --> Config Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:06:05 --> URI Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> Router Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> Output Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> Security Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> Input Class Initialized
+DEBUG - 2016-05-16 10:06:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:06:05 --> Language Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Language Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Config Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:06:05 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:06:05 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:06:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:06:05 --> Session Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:06:05 --> Session routines successfully run
+DEBUG - 2016-05-16 11:06:05 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Email Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:06:05 --> Model Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:06:05 --> Model Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:06:05 --> Model Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:06:05 --> Model Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:06:05 --> Model Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:06:05 --> Model Class Initialized
+DEBUG - 2016-05-16 11:06:05 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:06:05 --> Model Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Config Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:07:19 --> URI Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Router Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Output Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Security Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Input Class Initialized
+DEBUG - 2016-05-16 10:07:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:07:19 --> Language Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Language Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Config Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:07:19 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:07:19 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:07:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:07:19 --> Session Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:07:19 --> Session routines successfully run
+DEBUG - 2016-05-16 11:07:19 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Email Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:07:19 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:07:19 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:07:19 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:07:19 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:07:19 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:07:19 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:19 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:07:19 --> Model Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Config Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:07:28 --> URI Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Router Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Output Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Security Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Input Class Initialized
+DEBUG - 2016-05-16 10:07:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 10:07:28 --> Language Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Language Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Config Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Loader Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 11:07:28 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 11:07:28 --> Database Driver Class Initialized
+ERROR - 2016-05-16 11:07:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 11:07:28 --> Session Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 11:07:28 --> Session routines successfully run
+DEBUG - 2016-05-16 11:07:28 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Pagination Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Email Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Controller Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> Messaging MX_Controller Initialized
+DEBUG - 2016-05-16 11:07:28 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/messaging/models/messaging_model.php
+DEBUG - 2016-05-16 11:07:28 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 11:07:28 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/admin/models/sections_model.php
+DEBUG - 2016-05-16 11:07:28 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/admin/models/admin_model.php
+DEBUG - 2016-05-16 11:07:28 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/admin/models/users_model.php
+DEBUG - 2016-05-16 11:07:28 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/administration/models/personnel_model.php
+DEBUG - 2016-05-16 11:07:28 --> Model Class Initialized
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/messaging/views/templates/template_detail.php
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/admin/views/includes/top_navigation.php
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/admin/views/includes/sidebar.php
+DEBUG - 2016-05-16 11:07:28 --> File loaded: application/modules/admin/views/templates/general_page.php
+DEBUG - 2016-05-16 11:07:28 --> Final output sent to browser
+DEBUG - 2016-05-16 11:07:28 --> Total execution time: 0.2048
+DEBUG - 2016-05-16 10:07:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:07:31 --> URI Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> Router Class Initialized
+ERROR - 2016-05-16 10:07:31 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 10:07:31 --> Config Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> Hooks Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 10:07:31 --> URI Class Initialized
+DEBUG - 2016-05-16 10:07:31 --> Router Class Initialized
+ERROR - 2016-05-16 10:07:31 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 14:54:35 --> Config Class Initialized
+DEBUG - 2016-05-16 14:54:35 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:54:36 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:54:36 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:54:36 --> URI Class Initialized
+DEBUG - 2016-05-16 14:54:36 --> Router Class Initialized
+DEBUG - 2016-05-16 14:54:37 --> Output Class Initialized
+DEBUG - 2016-05-16 14:54:37 --> Security Class Initialized
+DEBUG - 2016-05-16 14:54:37 --> Input Class Initialized
+DEBUG - 2016-05-16 14:54:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 14:54:37 --> Language Class Initialized
+DEBUG - 2016-05-16 14:54:37 --> Language Class Initialized
+DEBUG - 2016-05-16 14:54:37 --> Config Class Initialized
+DEBUG - 2016-05-16 14:54:38 --> Loader Class Initialized
+DEBUG - 2016-05-16 14:54:38 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 14:54:38 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 14:54:38 --> Database Driver Class Initialized
+ERROR - 2016-05-16 14:54:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 14:54:43 --> Session Class Initialized
+DEBUG - 2016-05-16 14:54:43 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 14:54:43 --> A session cookie was not found.
+DEBUG - 2016-05-16 14:54:43 --> Session routines successfully run
+DEBUG - 2016-05-16 14:54:43 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 14:54:43 --> Pagination Class Initialized
+DEBUG - 2016-05-16 14:54:43 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 14:54:43 --> Email Class Initialized
+DEBUG - 2016-05-16 14:54:43 --> Controller Class Initialized
+DEBUG - 2016-05-16 14:54:43 --> Auth MX_Controller Initialized
+DEBUG - 2016-05-16 14:54:43 --> Model Class Initialized
+DEBUG - 2016-05-16 14:54:44 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 14:54:44 --> Model Class Initialized
+DEBUG - 2016-05-16 14:54:44 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 14:54:44 --> Model Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Config Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:54:46 --> URI Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Router Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Output Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Security Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Input Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 14:54:46 --> Language Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Language Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Config Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Loader Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 14:54:46 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 14:54:46 --> Database Driver Class Initialized
+ERROR - 2016-05-16 14:54:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 14:54:46 --> Session Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 14:54:46 --> A session cookie was not found.
+DEBUG - 2016-05-16 14:54:46 --> Session routines successfully run
+DEBUG - 2016-05-16 14:54:46 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Pagination Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Email Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Controller Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> Auth MX_Controller Initialized
+DEBUG - 2016-05-16 14:54:46 --> Model Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 14:54:46 --> Model Class Initialized
+DEBUG - 2016-05-16 14:54:46 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 14:54:46 --> Model Class Initialized
+DEBUG - 2016-05-16 14:54:49 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 14:54:49 --> File loaded: application/modules/auth/views/templates/login.php
+DEBUG - 2016-05-16 14:54:49 --> Final output sent to browser
+DEBUG - 2016-05-16 14:54:49 --> Total execution time: 2.8132
+DEBUG - 2016-05-16 14:54:58 --> Config Class Initialized
+DEBUG - 2016-05-16 14:54:58 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:54:58 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:54:58 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:54:58 --> URI Class Initialized
+DEBUG - 2016-05-16 14:54:58 --> Router Class Initialized
+ERROR - 2016-05-16 14:54:58 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 14:54:59 --> Config Class Initialized
+DEBUG - 2016-05-16 14:54:59 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:54:59 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:54:59 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:54:59 --> URI Class Initialized
+DEBUG - 2016-05-16 14:54:59 --> Router Class Initialized
+ERROR - 2016-05-16 14:54:59 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 14:55:01 --> Config Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:55:01 --> URI Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> Router Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> Config Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:55:01 --> URI Class Initialized
+DEBUG - 2016-05-16 14:55:01 --> Router Class Initialized
+ERROR - 2016-05-16 14:55:01 --> 404 Page Not Found --> 
+ERROR - 2016-05-16 14:55:01 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 14:57:51 --> Config Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:57:51 --> URI Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Router Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Output Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Security Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Input Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2016-05-16 14:57:51 --> Language Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Language Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Config Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Loader Class Initialized
+DEBUG - 2016-05-16 14:57:51 --> Helper loaded: url_helper
+DEBUG - 2016-05-16 14:57:51 --> Helper loaded: form_helper
+DEBUG - 2016-05-16 14:57:51 --> Database Driver Class Initialized
+ERROR - 2016-05-16 14:57:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\abm\system\database\drivers\mysql\mysql_driver.php 92
+DEBUG - 2016-05-16 14:57:55 --> Session Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> Helper loaded: string_helper
+DEBUG - 2016-05-16 14:57:55 --> Session routines successfully run
+DEBUG - 2016-05-16 14:57:55 --> Form Validation Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> Pagination Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> Encrypt Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> Email Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> Controller Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> Auth MX_Controller Initialized
+DEBUG - 2016-05-16 14:57:55 --> Model Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> File loaded: application/modules/auth/models/auth_model.php
+DEBUG - 2016-05-16 14:57:55 --> Model Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> File loaded: application/modules/site/models/site_model.php
+DEBUG - 2016-05-16 14:57:55 --> Model Class Initialized
+DEBUG - 2016-05-16 14:57:55 --> File loaded: application/modules/admin/views/includes/header.php
+DEBUG - 2016-05-16 14:57:55 --> File loaded: application/modules/auth/views/templates/login.php
+DEBUG - 2016-05-16 14:57:55 --> Final output sent to browser
+DEBUG - 2016-05-16 14:57:55 --> Total execution time: 4.3931
+DEBUG - 2016-05-16 14:57:59 --> Config Class Initialized
+DEBUG - 2016-05-16 14:57:59 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:57:59 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:57:59 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:57:59 --> URI Class Initialized
+DEBUG - 2016-05-16 14:57:59 --> Router Class Initialized
+ERROR - 2016-05-16 14:57:59 --> 404 Page Not Found --> 
+DEBUG - 2016-05-16 14:58:00 --> Config Class Initialized
+DEBUG - 2016-05-16 14:58:00 --> Hooks Class Initialized
+DEBUG - 2016-05-16 14:58:00 --> Utf8 Class Initialized
+DEBUG - 2016-05-16 14:58:00 --> UTF-8 Support Enabled
+DEBUG - 2016-05-16 14:58:00 --> URI Class Initialized
+DEBUG - 2016-05-16 14:58:00 --> Router Class Initialized
+ERROR - 2016-05-16 14:58:00 --> 404 Page Not Found --> 

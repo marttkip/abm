@@ -18,7 +18,8 @@ if ($query->num_rows() > 0)
 				  <th>#</th>
 				  <th>Name</th>
 				  <th>Phone</th>
-				  <th></th>
+				  <th>Balance</th>
+				  <th colspan="2"></th>
 				</tr>
 			  </thead>
 			  <tbody>
@@ -62,6 +63,8 @@ if ($query->num_rows() > 0)
 					<td>'.$count.'</td>
 					<td>'.$Name.'</td>
 					<td>'.$Phonenumber.'</td>
+					<td>'.$balance.'</td>
+					<td><a href="'.site_url().'administration/contacts/edit_contact/'.$entryid.'" class="btn btn-sm btn-primary" title="Edit '.$Name.'"><i class="fa fa-pencil"></i></a></td>
 					<td><a href="'.site_url().'delete-contact/'.$entryid.'" class="btn btn-sm btn-danger" onclick="return confirm(\'Do you really want to delete '.$Name.'?\');" title="Delete '.$Name.'"><i class="fa fa-trash"></i></a></td>
 
 					
@@ -79,7 +82,7 @@ if ($query->num_rows() > 0)
 
 else
 {
-	$result .= "There are no personnel";
+	$result .= "There are no contacts";
 }
 $result .= '
 			<br>
@@ -93,8 +96,8 @@ $result .= '
 <section class="panel">
 	<header class="panel-heading">						
 		<h2 class="panel-title"><?php echo $title;?></h2>
-		  <button type="button" class="btn btn-sm btn-primary pull-right" data-toggle="modal" data-target="#import_rental_list"  style="margin-top:-25px"><i class="fa fa-plus"></i> Import Contacts</button>
-		<!-- <a href="<?php echo site_url();?>human-resource/add-personnel" class="btn btn-sm btn-info pull-right" style="margin-top:-25px">Add Personnel</a> -->
+		  <button type="button" class="btn btn-sm btn-primary pull-right" data-toggle="modal" data-target="#import_rental_list"  style="margin-top:-25px"><i class="fa fa-upload"></i> Import Contacts</button>
+		<a href="<?php echo site_url();?>administration/contacts/add_contact" class="btn btn-sm btn-info pull-right" style="margin-top:-25px"><i class="fa fa-plus"></i> Add Contact</a> 
 	</header>
 	<div class="panel-body">
 		<?php
@@ -131,7 +134,7 @@ $result .= '
                             <?php echo form_open_multipart("contacts/validate-import/1", array("class" => "form-horizontal","role" => "form"));?>
                            
                              <div class="alert alert-info">
-				            	Please ensure that you have set up the following in the hospital administration:
+				            	Please ensure that you have the following data ready to transfer into the import templage:
 				                <ol>
 				                    <li>Name</li>
 				                    <li>Phone Number</li>
@@ -142,7 +145,7 @@ $result .= '
 				                <div class="col-md-12">
 				                    <ul>
 				                        <li>Download the import template <a href="<?php echo site_url().'contacts/import-template';?>">here.</a></li>				                        
-				                        <li>Save your file as a <strong>csv</strong> file before importing</li>
+				                        <li>Save your file as a <strong>CSV (Comma Delimited)</strong> file before importing</li>
 				                        <li>After adding your contacts to the import template please import them using the button below</li>
 				                    </ul>
 				                </div>

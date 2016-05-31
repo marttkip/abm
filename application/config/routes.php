@@ -555,6 +555,8 @@ $route['messaging/send-messages'] = 'messaging/send_messages';
 
 
 
+$route['add-contact'] = 'administration/contacts/add_contact';
+$route['edit-contact/(:num)'] = 'administration/contacts/edit_contact/$1';
 $route['contacts'] = 'administration/contacts/index';
 $route['contacts/(:num)'] = 'administration/contacts/index/$1';
 $route['delete-contact/(:num)'] = 'administration/contacts/delete_contact/$1';

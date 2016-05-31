@@ -17,8 +17,7 @@
 |
 */
 $config['base_url'] = 'http://localhost/abm/';
-#$config['base_url'] = 'http://192.168.1.122/';
-#$config['base_url'] = 'http://159.203.78.242/';
+#$config['base_url'] = 'https://www.omnis.co.ke/abm/';
 
 /*
 |--------------------------------------------------------------------------

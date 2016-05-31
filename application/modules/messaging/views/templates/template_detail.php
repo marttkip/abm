@@ -31,16 +31,7 @@ $sample_text = $this->messaging_model->get_sample_text($message_template_descrip
                                <p><strong> Example text : <span style="text-style:intalic;">"<?php echo $sample_text;?>"</span></strong></p>
                             </div>
                             <?php
-                             $search_template = $this->session->userdata('search_template');
-                            if(!empty($search_template))
-                            {
-                            	?>
-                            	<hr>
-                            	  <div class="info center-align">
-		                            	<strong>Serach Template:</strong><?php echo $this->session->userdata('search_title');?>
-		                           </div>
-                            	<?php
-                            	echo form_open("create-batch-items/".$message_template_id, array("class" => "form-horizontal", "role" => "form"));
+                            echo form_open("create-batch-items/".$message_template_id, array("class" => "form-horizontal", "role" => "form"));
                             	?>
                             	<input type="hidden" name="message_template_description" value="<?php echo $message_template_description?>">
                             	<div class="row" style="margin-top:10px;">
@@ -54,7 +45,6 @@ $sample_text = $this->messaging_model->get_sample_text($message_template_descrip
 								</div>
                             	<?php
                             	echo form_close();
-                            }
                             ?>
 
                         </div>
@@ -67,69 +57,6 @@ $sample_text = $this->messaging_model->get_sample_text($message_template_descrip
 	</div>
 	
 </div>
-<section class="panel">
-		<div class="row" style="margin-top:20px;">
-		    <div class="col-lg-12">
-		    	<!-- <a href="<?php echo site_url();?>messaging/message-templates" class="btn btn-sm btn-success pull-right" style="margin-top:-25px">Back to Message Template</a> -->
-		    	<a  class="btn btn-sm btn-primary pull-right" id="open_new_search" onclick="get_new_search();" style="margin-top:-25px">Search</a>
-				<a  class="btn btn-sm btn-default pull-right" id="close_new_search" style="display:none; margin-top:-25px;" onclick="close_new_search();">Close Search</a>
-                <div style="display:none;" class="col-md-12" style="margin-bottom:20px;" id="new_search" >
-                	<section class="panel">
-						<header class="panel-heading">
-							<div class="panel-actions">
-							</div>
-							<h2 class="panel-title">New Search</h2>
-						</header>
-						<div class="panel-body">
-							<div class="row" style="margin-bottom:20px;">
-                    			<div class="col-lg-12 col-sm-12 col-md-12">
-                    				<div class="row">
-                    				<?php 
-                    						echo form_open("set-search-parameters/".$message_template_id, array("class" => "form-horizontal", "role" => "form"));
-
-                    				
-                    				?>
-                        				<div class="col-md-12">
-                        					<div class="row">
-                            					<div class="col-md-12">
-                                					<div class="form-group">
-											            <div class="col-lg-5 center_align">
-											            	<select id='countyname' name='countyname' class='form-control custom-select '>
-										                    <!-- <select class="form-control custom-select " id='procedure_id' name='procedure_id'> -->
-										                      <option value=''>None - Please Select a county</option>
-										                      <?php echo $county_list;?>
-										                    </select>
-											            </div>
-											        </div>
-											        
-											    </div>
-											    
-											</div>
-										    <div class="row" style="margin-top:10px;">
-												<div class="col-md-12">
-											        <div class="form-actions center-align">
-											            <button class="submit btn btn-sm btn-primary" type="submit">
-											                Set search items
-											            </button>
-											        </div>
-											    </div>
-											</div>
-                        				</div>
-                        				<?php echo form_close();?>
-                        				<!-- end of form -->
-                        			</div>
-
-                    				
-                    			</div>
-                    			
-                    		</div>
-						</div>
-					</section>
-                </div>						
-		    </div>
-		</div>
-</section>
-
 <?php
 		
 		$result = '';
@@ -146,7 +73,6 @@ $sample_text = $this->messaging_model->get_sample_text($message_template_descrip
 					<tr>
 						<th>#</th>
 						<th>Batch Code</th>
-						<th>Search Title</th>
 						<th>Total Contacts</th>
 						<th>Sent Messages</th>
 						<th>Unsent Messages</th>
@@ -167,7 +93,7 @@ $sample_text = $this->messaging_model->get_sample_text($message_template_descrip
 				$search_template = $row->search_template;
 				$search_title = $row->search_title;
 				$message_template_description = $row->message_template_description;
-				$where = 'entryid > 0 '.$search_template;
+				$where = 'entryid > 0 ';
 				$total_contacts = $this->messaging_model->count_items('allcounties',$where);
 				$sent_where = 'message_status = 1 AND message_batch_id ='.$message_batch_id;
 				$sent_messages = $this->messaging_model->count_items('messages',$sent_where);
@@ -202,7 +128,6 @@ $sample_text = $this->messaging_model->get_sample_text($message_template_descrip
 					<tr>
 						<td>'.$count.'</td>
 						<td>'.$message_batch_code.'</td>
-						<td>'.$search_title.'</td>
 						<td>'.$total_contacts.'</td>
 						<td>'.$sent_messages.'</td>
 						<td>'.$unsent_messages.'</td>
